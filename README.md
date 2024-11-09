@@ -64,7 +64,7 @@ jupyter notebook
   - Number of releases increases over time (By year)
   - January has the highest number of releases in a year
     - As the months go by, the number of releases decreases with **december** having the least releases
-- Genre and Music Characterists
+- Genre and Music Characteristics
   - Which attributes seem to influence streams the most?
     - Speechiness influences the streams the most with it having the strongest negative correlation
   - Is there a correlation between danceability_% and energy_%? How about valence_% and acousticness_%?
